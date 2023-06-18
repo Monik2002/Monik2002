@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 854 340" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .hack {
+          font-weight: bold;
+          font-family: 'HackNormal', 'monospace';
+        }
+        .text {
+          text-align: center;
+          text-decoration: underline;
+          font-size: 15px;
+        }
+        .intro {
+          text-align: left;
+          font-size: 13px;
+          color: #ff00ff;
+          white-space: pre-line;
+          display: table;
+          margin: 0 auto;
+        }
+        .text_animated {
+          background: linear-gradient(to right, #ff00ff, #ff9900, #ff0000, #6600ff);
+          -webkit-background-clip: text;
+          background-clip: text;
+          color: transparent;
+          animation: text_animation 6s ease-in-out infinite;
+          background-size: 400% 100%;
+        }
+        @keyframes text_animation {
+          0%,100% {
+              background-position: 0 0;
+          }
+          50% {
+              background-position: 100% 0;
+          }
+        }
+      </style>
+      <div>
+        <pre class="hack text text_animated"> 
+OOO   PPPP   EEEEE  N   N  SSSSS   OOO   U   U  RRRR    CCCC  EEEEE
+O   O  P   P  E      NN  N  SS     O   O  U   U  R   R  C      E    
+O   O  PPPP   EEE    N N N   SSS   O   O  U   U  RRRR   C      EEE  
+O   O  P      E      N  NN     SS  O   O  U   U  R R    C      E    
+ OOO   P      EEEEE  N   N  SSSSS   OOO    UUU   R  R    CCCC  EEEEE
+
+--------------------------------------------------------------------------------
+
+F   F  RRRR   OOO   N   N  TTTTT    -    EEEEE  N   N  DDDD
+F      R   R  O   O  NN  N    T     -    E      NN  N  D   D
+FFF    RRRR   O   O  N N N    T     -    EEE    N N N  D   D
+F      R R    O   O  N  NN    T     -    E      N  NN  D   D
+F      R  R    OOO   N   N    T     -    EEEEE  N   N  DDDD </pre>
+        <div class="hack intro">
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
