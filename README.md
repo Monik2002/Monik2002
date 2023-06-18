@@ -1,4 +1,7 @@
-![frontend-image](https://github.com/Monik2002/Monik2002/assets/87751450/c6923864-16f5-47d6-add7-8b72823ed9dd)
+<!-- ![frontend-image](https://github.com/Monik2002/Monik2002/assets/87751450/c6923864-16f5-47d6-add7-8b72823ed9dd) -->
+
+<img src="https://github.com/Monik2002/Monik2002/assets/87751450/c6923864-16f5-47d6-add7-8b72823ed9dd" alt="" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Monik </h1>
 <h3 align="center">An aspiring passionate frontend developer from India</h3>
 
