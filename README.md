@@ -29,6 +29,12 @@
 
 <img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="" width="100%"/>
 
+## Inspiration
+
+- **[italopolazzi](http://github.com/italopolazzi)**
+
+- **[dlemstra](https://github.com/dlemstra/dlemstra)**
+
 <!---
 Monik2002/Monik2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
