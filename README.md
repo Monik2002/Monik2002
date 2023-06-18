@@ -25,6 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monik2002&" alt="monik2002" /></p>
 
+<img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="" width="100%"/>
 
 <!---
 Monik2002/Monik2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
