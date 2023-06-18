@@ -25,6 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monik2002&" alt="monik2002" /></p>
 
+<img src="svgFile.svg" style="max-width:100%;"/>
+
 <img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="" width="100%"/>
 
 <!---
