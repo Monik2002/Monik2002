@@ -1,7 +1,8 @@
 <!-- ![frontend-image](https://github.com/Monik2002/Monik2002/assets/87751450/c6923864-16f5-47d6-add7-8b72823ed9dd) -->
 
-<img src="https://github.com/Monik2002/Monik2002/assets/87751450/c6923864-16f5-47d6-add7-8b72823ed9dd" alt="" width="100%"/>
+<div align="center">
 <img src="./pic-for-readme.jpg" alt="" width="50%"/>
+</div>
 
 <div align="center">
     <img loading="lazy" width="30px" src="./code.png" alt="code png" />
