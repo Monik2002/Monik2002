@@ -13,7 +13,7 @@
 <h1 align="center"> I'm Monik </h1>
 <h3 align="center">An aspiring passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/monikanchan-chatterjee-a86862200**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/monikanchan-chatterjee-a86862200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monikanchan-chatterjee-a86862200" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monikanchan-chatterjee-a86862200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monikanchan-chatterjee-a86862200" height="30" width="40" /></a>
 </p>
 <img src="https://github.com/Monik2002/Monik2002/assets/87751450/47b41b46-b831-49be-a9f2-8e771d8e223a" alt="" width="100%"/>
 <h3 align="left">Languages and Tools:</h3>
