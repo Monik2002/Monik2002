@@ -20,6 +20,11 @@
    <img src="https://socialify.git.ci/Monik2002/Monik2002/image?description=1&descriptionEditable=Code%20%2C%20Debug%20and%20Repeat%20&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="700" height="300" />
 </p>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=555&lines=Knowledge+is+power!;Every+moment+is+a+fresh+beginning!;Embrace+challenges+to+foster+your+growth!" alt="Typing SVG" /></a>
+<!-- Typing SVG end -->
+    
 - 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/monikanchan-chatterjee-a86862200**
