@@ -16,9 +16,11 @@
 <h3 align="center">An aspiring passionate frontend developer from India</h3>
 
 <!-- Header image by wei - https://github.com/wei/socialify -->
+<h3>
 <p align="center">
    <img src="https://socialify.git.ci/Monik2002/Monik2002/image?description=1&descriptionEditable=Code%20%2C%20Debug%20and%20Repeat%20&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="700" height="300" />
 </p>
+</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
