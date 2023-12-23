@@ -15,6 +15,11 @@
 <h1 align="center"> I'm Monik </h1>
 <h3 align="center">An aspiring passionate frontend developer from India</h3>
 
+<!-- Header image by wei - https://github.com/wei/socialify -->
+<p align="center">
+   <img src="https://socialify.git.ci/Monik2002/Monik2002/image?description=1&descriptionEditable=Code%20%2C%20Debug%20and%20Repeat%20&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="700" height="300" />
+</p>
+
 - 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/monikanchan-chatterjee-a86862200**
