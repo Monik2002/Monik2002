@@ -6,9 +6,9 @@
 
 <h1>
 <div align="center">
-    <img loading="lazy" width="30px" src="./code.png" alt="code png" />
+    <img loading="lazy" width="30px" src="code.png" alt="code png" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
-    <img loading="lazy" width="30px" src="./layers.png" alt="layers png" />
+    <img loading="lazy" width="30px" src="layers.png" alt="layers png" />
 </div>
 </h1>
 
