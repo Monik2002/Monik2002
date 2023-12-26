@@ -47,7 +47,7 @@
 
 <img src="svgFile.svg" style="max-width:100%;"/>
 
-<a href="https://app.daily.dev/ben10"><img src="https://github.com/Monik2002/Monik2002.github.io/blob/main/devcard.svg" width="400" alt="Ben's Dev Card"/></a>
+<a href="https://app.daily.dev/ben10"><img src="https://github.com/Monik2002/Monik2002/blob/main/devcard.svg" width="400" alt="Ben's Dev Card"/></a>
 
 <img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="" width="100%"/>
 
