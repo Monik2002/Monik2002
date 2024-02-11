@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact **I love exploring new themes in VS Code**
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/R12YeyLCQa2x8Y5TpfKWpQ"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/R12YeyLCQa2x8Y5TpfKWpQ/image"></a><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/R12YeyLCQa2x8Y5TpfKWpQ"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/R12YeyLCQa2x8Y5TpfKWpQ/image"></blockquote>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
