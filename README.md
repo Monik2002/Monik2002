@@ -53,6 +53,8 @@
 
 <a href="https://app.daily.dev/ben10"><img src="https://github.com/Monik2002/Monik2002/blob/main/devcard.svg" width="400" alt="Ben's Dev Card"/></a>
 
+[![Monik2002's GitHub | Stats](https://stats.quine.sh/Monik2002/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Monik2002)
+
 <img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="" width="100%"/>
 
 ## Inspiration
