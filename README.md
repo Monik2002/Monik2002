@@ -40,18 +40,9 @@
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
-  </a>
-  <!-- Add more icons and links as needed -->
-</p>
-
 <!-- GitHub Stats Section -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monik2002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monik2002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
