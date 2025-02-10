@@ -27,7 +27,7 @@
 </p>
 
 <!-- About Me Section -->
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monikanchan-chatterjee-a86862200)
 
