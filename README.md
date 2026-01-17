@@ -62,11 +62,6 @@
 </div>
 
 <!-- Footer Section -->
-<p align="center">
-  <a href="https://stats.quine.sh/Monik2002/github?theme=dark">
-    <img src="https://stats.quine.sh/Monik2002/github?theme=dark" alt="GitHub Stats" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="Footer Image" width="100%"/>
