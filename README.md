@@ -41,19 +41,6 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monik2002&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monik2002&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monik2002&" alt="GitHub Streak Stats" />
-</p>
-
 <!-- Additional Section (if needed) -->
 <div align="center">
   <a href="https://app.daily.dev/ben10">
@@ -62,6 +49,8 @@
 </div>
 
 <!-- Footer Section -->
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://github.com/rodrigouroz/rodrigouroz.github.io/blob/master/img/jim.jpg?raw=true" alt="Footer Image" width="100%"/>
